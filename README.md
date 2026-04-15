@@ -11,8 +11,8 @@ Currently completing a professional Data Analytics course, I specialize in trans
 - Python  
 
 ## My Projects
-- [Adventure Works](https://github.com/ShaikJaveed4123/AdventureWorks_Project)  
-- [Crowdfunding](https://github.com/ShaikJaveed4123/Crowdfunding_Project)  
+- [HR_Analytics](https://github.com/buqarivish-glitch/HR-Analytics-Project)  
+- [Zomato_Analysis]()  
 
 ## Currently Learning 
 - Python for data science  
