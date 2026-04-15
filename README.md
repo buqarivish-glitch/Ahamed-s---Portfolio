@@ -12,7 +12,7 @@ Currently completing a professional Data Analytics course, I specialize in trans
 
 ## My Projects
 - [HR_Analytics](https://github.com/buqarivish-glitch/HR-Analytics-Project)  
-- [Zomato_Analysis]()  
+- [Zomato_Analysis](https://github.com/buqarivish-glitch/Zomato-Analysis-Project-)  
 
 ## Currently Learning 
 - Python for data science  
